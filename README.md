@@ -1,1 +1,2 @@
-# Aqui contém o mesmo site da atividade 1, só que melhorado e estilizado com css 
+# Lugar que eu gostaria de conhecer
+# Lugar escolhido: Japão
